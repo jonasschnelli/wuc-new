@@ -1,7 +1,7 @@
 ---
 title: Jonas Schnelli
 seotitle: Jonas Schnelli - Bitcoin Core Developer
-img: /images/jonas-schnelli.png
+img: https://avatars3.githubusercontent.com/u/178464?v=3&s=400
 name: Jonas Schnelli
 position: Co-founder, Digital Bitbox
 education: 
